@@ -1,6 +1,6 @@
 # #BLESSED
 
-![Alt tag](/client/blessed.png)
+![Alt tag](./client/blessed.png)
 
 Angular X Instagram
 
