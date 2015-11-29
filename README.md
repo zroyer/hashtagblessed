@@ -2,6 +2,6 @@
 
 🙏🙏🙏🙏🙏🙏🙏🙏🙏
 
-Angular X Instagram
+AngularJS X Instagram
 
 
